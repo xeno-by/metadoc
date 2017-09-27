@@ -1,0 +1,83 @@
+
+ª-
+_root_.org.$
+¯±_root_.scala.package.`::`.}
+ÁÂs_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.(a)"
+qu_root_.scala.package.List#z
+º¾p_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.4
+EE,_root_.scala.annotation.tailrec#`<init>`()V.
+_root_.org.typelevel.P
+¿ÀFpaiges/core/src/main/scala/org/typelevel/paiges/package.scala@173..174P
+ÅÉFpaiges/core/src/main/scala/org/typelevel/paiges/package.scala@178..182|
+abr_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#(
+3= _root_.scala.annotation.tailrec#
+jow_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.(stack)
+„‰w_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.(stack)}
+¢£s_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.(a)|
+€r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#z
+vwr_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#$
+PV_root_.org.typelevel.paiges.z
+\`p_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.z
+{|r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#R
+²¶Fpaiges/core/src/main/scala/org/typelevel/paiges/package.scala@178..182R
+­®Fpaiges/core/src/main/scala/org/typelevel/paiges/package.scala@173..174}
+des_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.(a)z
+ghr_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#(
+>E _root_.scala.annotation.tailrec#.
+&,$_root_.org.typelevel.paiges.package.0
+›ž&_root_.scala.collection.immutable.Nil."ø
+Fpaiges/core/src/main/scala/org/typelevel/paiges/package.scala@173..174­hFunction1[A, A]"
+	_root_.scala.Function1#"z
+
+r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#"z
+r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#"`
+_root_.scala.package.List#BList	List.type"-
+'_root_.scala.collection.immutable.List."\
+_root_.scala.package.`::`.>::::.type"-
+'_root_.scala.collection.immutable.`::`."è
+p_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.ó„€call.[A] => (a: A, stack: List[Function1[A, A]]): A"{
+s_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.[A]""
+_root_.scala.package.List#"
+#_root_.scala.Function1#"{
+$%s_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.[A]"{
+'(s_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.[A]"{
+-.s_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.[A]"|
+r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#€A"4
+&_root_.scala.collection.immutable.Nil.
+€„ˆNil"1
+ _root_.scala.annotation.tailrec#€ tailrec"
+_root_.org.
+€ˆ€org")
+_root_.org.typelevel.€ˆ€	typelevel"²
+Fpaiges/core/src/main/scala/org/typelevel/paiges/package.scala@178..182çtailList[Function1[A, A]]"-
+'_root_.scala.collection.immutable.List#"
+_root_.scala.Function1#"z
+r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#"z
+r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#"4
+$_root_.org.typelevel.paiges.package.€package"-
+_root_.org.typelevel.paiges.€ˆ€paiges"q
+,_root_.scala.annotation.tailrec#`<init>`()V.A<init>(): tailrec"(
+ _root_.scala.annotation.tailrec#"Ø
+w_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.(stack)Ü€stackList[Function1[A, A]]" 
+_root_.scala.package.List#"
+_root_.scala.Function1#"z
+r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#"z
+r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#"û
+s_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.(a)ƒ€aA"x
+r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#2m
+ÀÀ*.apply
+_star_.K
+C_root_.scala.Function1#apply(Ljava/lang/Object;)Ljava/lang/Object;.2™
+¾¾*[A]
+_star_.z
+r_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.A#:Scala212BÑpackage org.typelevel
+
+package object paiges {
+
+  @annotation.tailrec
+  private[paiges] def call[A](a: A, stack: List[A => A]): A = stack match {
+    case Nil => a
+    case h :: tail => call(h(a), tail)
+  }
+}
+J=paiges/core/src/main/scala/org/typelevel/paiges/package.scala

@@ -1,0 +1,9 @@
+
+;paiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala
+9paiges/core/src/main/scala/org/typelevel/paiges/Doc.scala
+>paiges/core/src/main/scala/org/typelevel/paiges/Document.scala
+=paiges/core/src/main/scala/org/typelevel/paiges/package.scala
+Cpaiges/core/src/test/scala/org/typelevel/paiges/DocumentTests.scala
+@paiges/core/src/test/scala/org/typelevel/paiges/Generators.scala
+>paiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala
+@paiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala

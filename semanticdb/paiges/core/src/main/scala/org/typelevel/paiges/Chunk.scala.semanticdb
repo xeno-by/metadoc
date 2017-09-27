@@ -1,0 +1,759 @@
+
+»¬M
+Ÿ‚A_root_.org.typelevel.paiges.Chunk.lineToStr(I)Ljava/lang/String;.P
+åèFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793P
+◊ÿFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2297..2298$
+èë_root_.scala.package.`::`.R
+÷◊H_root_.org.typelevel.paiges.Chunk.makeIndentStr(I)Ljava/lang/String;.(i)N
+õ¢Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@222..243P
+∆«Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1940..1941P
+´ÆFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2813..2821R
+ı˙Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2417..24520
+ﬁ·&_root_.scala.collection.immutable.Nil.K
+ÇãA_root_.org.typelevel.paiges.Chunk.lineToStr(I)Ljava/lang/String;.
+¥ª_root_.scala.Boolean#P
+¨ØFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793n
+ªºb_root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.(d)R
+ÉÜFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1795..1816P
+—‘Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793P
+… Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1957..1958P
+ÖÜFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2014..2015
+˛Å_root_.scala.Int#R
+Ù¯Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797R
+‡·Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2144..2145
+∂π_root_.scala.Int#P
+∆ÀDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@314..351%
+˚Å_root_.scala.Predef.String#P
+ø¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1954..1955R
+ÍÎFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2026..2027P
+¶±Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@287..988P
+ÉÜFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793$
+Ûı_root_.scala.package.`::`.R
+¢£Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1954..1955$
+©´_root_.scala.package.`::`.6
+·
+·
+,_root_.scala.annotation.tailrec#`<init>`()V.
+ÇÖ_root_.scala.Int#k
+‚‰a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+åîDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@387..387P
+⁄€Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2300..2317R
+ÂÊFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1893..1894N
+˘ÄDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@427..427P
+∞¥Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1382..1632*
+§ß _root_.org.typelevel.paiges.Doc#P
+ﬂÍDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@475..542N
+åêDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@358..982P
+˛ÅFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793
+πº_root_.scala.Int#*
+µ∏ _root_.org.typelevel.paiges.Doc.P
+ﬁ‚Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@602..974T
+∂∑H_root_.org.typelevel.paiges.Chunk.makeIndentStr(I)Ljava/lang/String;.(i)R
+¸˝Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2300..2317P
+·‚Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2226..22276
+ïû,_root_.org.typelevel.paiges.Chunk.indentMax.P
+Ò	ı	Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1162..1211P
+±µFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797P
+´≤Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@427..443P
+úùFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2163..2164P
+πæFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2417..2452N
+÷⁄Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@369..369R
+áäFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2823..2844Q
+ËıEpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@994..1300N
+ ÕDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@813..827N
+ÄãDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@287..988A
+¥¡7_root_.org.typelevel.paiges.Chunk.indentTable.$anonfun.<
+ù	©	2_root_.scala.Any#asInstanceOf()Ljava/lang/Object;.N
+ÑàDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@369..3690
+©Æ&_root_.org.typelevel.paiges.Doc.Align.R
+•¶Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1957..1958N
+èîDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@402..402R
+Ø∞Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2095..2096*
+‰Î _root_.scala.annotation.tailrec#*
+ìñ _root_.org.typelevel.paiges.Doc#R
+Í
+Ó
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1382..1632P
+∏πFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1401..1415f
+ —\_root_.scala.collection.TraversableOnce#toArray(Lscala/reflect/ClassTag;)Ljava/lang/Object;.P
+¿√Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793*
+óö _root_.org.typelevel.paiges.Doc#P
+ˆ˘Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@374..385P
+µπFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1530..1552N
+◊⁄Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@813..827<
+—”2_root_.java.lang.Object#`!=`(Ljava/lang/Object;)Z.R
+àâFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2312..2313
+æ≈_root_.scala.Boolean#8
+Éå,_root_.org.typelevel.paiges.Chunk.indentMax.P
+íóDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@402..4256
+ÎÎ,_root_.scala.annotation.tailrec#`<init>`()V.N
+õ¶Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282k
+ÃŒa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.R
+ÛÙFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2163..2164*
+óö _root_.org.typelevel.paiges.Doc.#
+áà_root_.scala.Int#`+`(I)I.P
+ööDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@283..283P
+íìFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2322..2323N
+ø Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282N
+«“Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@287..988*
+·‰ _root_.org.typelevel.paiges.Doc.$
+àå_root_.scala.package.List#P
+ºΩFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1940..1941L
+ÕŒB_root_.java.lang.String#`+`(Ljava/lang/Object;)Ljava/lang/String;.W
+†®M_root_.scala.collection.IndexedSeqLike#iterator()Lscala/collection/Iterator;.P
+—“Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2102..2103]
+∞≥S_root_.scala.collection.Iterator#map(Lscala/Function1;)Lscala/collection/Iterator;.8
+ó¢._root_.org.typelevel.paiges.Chunk.indentTable.P
+ÉãDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@387..400R
+∂∑Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2102..2103R
+é	í	Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1162..1211R
+ÌÓFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2029..2030P
+âäFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2026..2027N
+¢¶Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@551..593P
+‘’F_root_.scala.collection.immutable.StringLike#`*`(I)Ljava/lang/String;.S
+¬»I_root_.org.typelevel.paiges.Chunk.lineToStr(I)Ljava/lang/String;.(indent)P
+œ–Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1964..1965P
+É
+Ü
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1220..1246$
+£•_root_.scala.Int#`>=`(I)Z.R
+ÙıFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2036..2037Y
+íîO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.P
+πΩDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@551..593R
+˙ÅFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1014..1038*
+ËÎ _root_.org.typelevel.paiges.Doc.P
+ÀÀFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1014..1038R
+¨≠Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1964..1965P
+ªøFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797N
+ﬂﬂDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@283..2830
+¿√&_root_.scala.collection.immutable.Nil.k
+êía_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.Q
+®µE_root_.org.typelevel.paiges.Chunk.makeIndentStr(I)Ljava/lang/String;.P
+¶™Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797N
+—‹Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@287..988*
+„Ê _root_.org.typelevel.paiges.Doc.%
+°ß_root_.scala.Predef.String#
+%*_root_.scala.<
+Œ–2_root_.java.lang.Object#`!=`(Ljava/lang/Object;)Z.N
+∑ªDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@551..593P
+∂πFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793P
+Ã–Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797P
+˘˝Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797 
++5_root_.scala.annotation.0
+Çá&_root_.org.typelevel.paiges.Doc.Union.,
+V["_root_.org.typelevel.paiges.Chunk./
+πΩ%_root_.org.typelevel.paiges.Doc.Line.(
+´≠_root_.scala.Boolean#`&&`(Z)Z.%
+Åá_root_.scala.Predef.String#N
+‰ÔDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282k
+Æ≤__root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.P
+åçFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2312..2313
+_root_.org.N
+…ÕDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@602..974%
+ø≈_root_.scala.Predef.String#P
+ııDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@374..443k
+¬ƒa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.:
+Ó˘._root_.org.typelevel.paiges.Chunk.indentTable.N
+‘ﬂDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@287..988R
+˘¸Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793P
+Œ	“	Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1162..1211P
+∞≥Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2823..2844
+ü¢_root_.scala.Int#%
+Õ”_root_.scala.Predef.String#N
+∑∏Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@888..917(
+ò†_root_.scala.package.Iterator#N
+ˆ	˙	Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@602..974R
+µºFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1073..1126N
+∫¬Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@387..387*
+˛Å _root_.org.typelevel.paiges.Doc.(
+≠Ø_root_.scala.Boolean#`||`(Z)Z.R
+»	À	Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1220..1246N
+‡ÂDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@314..351
+äë_root_.scala.Boolean#O
+æÀEpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@994..1300
+íï_root_.scala.Int#P
+˚ˇFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797*
+⁄
+·
+ _root_.scala.annotation.tailrec#R
+˜¸Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2803..2868%
+˜˝_root_.scala.Predef.String#P
+ƒ»Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1530..1552P
+¸˝Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@888..917$
+¬ƒ_root_.scala.package.`::`.P
+˝ÇFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2803..2868P
+‰ÂFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2245..2246n
+≥¥b_root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.(w)O
+¥¡E_root_.org.typelevel.paiges.Chunk.makeIndentStr(I)Ljava/lang/String;.R
+îïFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1940..1941P
+ï	ú	Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1018..1018
+_root_.org.typelevel.N
+”ÿDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@314..351R
+˝ÄFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2813..2821.
+©©$_root_.java.lang.Object#`<init>`()V.,
+îö"_root_.java.lang.String#length()I./
+ÓÒ%_root_.scala.runtime.RichInt#max(I)I.N
+——Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@283..283P
+†§Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1530..1552P
+ÒıDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@358..982
+çê_root_.scala.Int#P
+¶©Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1391..1399*
+•® _root_.org.typelevel.paiges.Doc.%
+Ò˜_root_.scala.Predef.String#P
+ìîFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2036..2037
+éë_root_.scala.Int#R
+≤≥Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2226..2227P
+±∂Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2417..2452R
+˘˙Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2297..2298/
+ÁÎ%_root_.org.typelevel.paiges.Doc.Text.P
+çéFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2029..2030R
+ÒıFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1133..1294$
+ôù_root_.scala.package.List#l
+ÿŸb_root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.(d)P
+Á	Ó	Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1018..1018S
+ÇàI_root_.org.typelevel.paiges.Chunk.lineToStr(I)Ljava/lang/String;.(indent)$
+_root_.org.typelevel.paiges.U
+„ÈI_root_.org.typelevel.paiges.Chunk.lineToStr(I)Ljava/lang/String;.(indent)P
+…–Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1018..1018$
+GM_root_.org.typelevel.paiges.0
+ÏÒ&_root_.org.typelevel.paiges.Doc.Empty.R
+Ô
+Ú
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1391..1399N
+©™Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@888..917R
+íìFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2322..2323P
+∆…Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793P
+âäFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2297..2298/
+ÂÈ%_root_.org.typelevel.paiges.Doc.Nest.R
+ˆ˜Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1910..1911N
+≈–Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282N
+ÉéDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282N
+›‚Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@314..351(
+6= _root_.scala.annotation.tailrec#k
+èëa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.R
+≈∆Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2245..2246P
+‚ÈDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@222..2436
+åï,_root_.org.typelevel.paiges.Chunk.indentMax.$
+≥µ_root_.scala.package.`::`.N
+¯ÉDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@287..988N
+™	µ	Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@287..988N
+∂	∫	Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@358..982R
+˘
+˙
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1401..1415$
+åê_root_.scala.package.List#k
+€›a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+”	ﬁ	Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@475..5425
+‹‡+_root_.org.typelevel.paiges.Doc.Union#bDoc.R
+˙˛Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1530..1552R
+ÏÌFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2156..2157N
+¸
+áDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282P
+±¥Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@813..827#
+êë_root_.scala.Int#`+`(I)I.P
+ÄÉFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793N
+‘ﬂDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282N
+ ’Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@287..988l
+ÏÌb_root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.(w)P
+ÀÃFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2095..2096S
+£©I_root_.org.typelevel.paiges.Chunk.lineToStr(I)Ljava/lang/String;.(indent)P
+ß´Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1382..1632P
+èöDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282
+Ù
+˜
+_root_.scala.Int#%
+ÏÚ_root_.scala.Predef.String#P
+Ã–Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797N
+ÖçDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@387..387P
+ÖÜFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1910..1911R
+ﬁﬂFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2014..2015$
+Ú_root_.scala.package.`::`.R
+ııFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1014..1038N
+•¨Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@427..4271
+õ°'_root_.org.typelevel.paiges.Doc.Concat.
+˚Ä_root_.scala.Array#$
+ÒÛ_root_.scala.package.`::`.P
+âäFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2156..2157P
+ÂÊFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2322..2323$
+âã_root_.scala.Int#`<=`(I)Z.P
+ÄÑFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797N
+õûDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@374..374k
+Œ–a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.P
+©¨Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1795..1816*
+æ¡ _root_.org.typelevel.paiges.Doc#
+ÎÓ_root_.scala.Int#(
+ƒÃ_root_.scala.package.Iterator#P
+íìFpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2156..2157"p
+H_root_.org.typelevel.paiges.Chunk.makeIndentStr(I)Ljava/lang/String;.(i)$ÄiInt"
+_root_.scala.Int#"c
+$_root_.java.lang.Object#`<init>`()V.;àÄÄ<init>
+(): Object" 
+
+_root_.java.lang.Object#"É
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1133..12949next
+(): String"#
+
+_root_.scala.Predef.String#"®
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@813..827`resChunkStream"J
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"˙
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2322..2323ØzList[Tuple2[Int, Doc]]"-
+'_root_.scala.collection.immutable.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"-
+_root_.scala.annotation.ÄàÄ
+annotation"
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1795..1816•ÄlstList[Tuple2[Int, Doc]]" 
+_root_.scala.package.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"Y
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@287..988ÄÑChunkStream"©
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@602..974astepChunkStream"J
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"`
+_root_.scala.package.List#BList	List.type"-
+'_root_.scala.collection.immutable.List."Q
+_root_.scala.Predef.String#2@StringString"
+_root_.java.lang.String#"î
+2_root_.scala.Any#asInstanceOf()Ljava/lang/Object;.^ÑÄasInstanceOf
+[T0] => T0">
+
+6_root_.scala.Any#asInstanceOf()Ljava/lang/Object;.[T0]"x
+%_root_.scala.runtime.RichInt#max(I)I.Omax(that: Int): Int"
+
+_root_.scala.Int#"
+_root_.scala.Int#"-
+ _root_.org.typelevel.paiges.Doc#	Ä†Doc"-
+ _root_.org.typelevel.paiges.Doc.	ÄÑDoc"z
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2156..21570sString"!
+_root_.scala.Predef.String#"˘
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1776..2797Æloop4(pos: Int, lst: List[Tuple2[Int, Doc]]): ChunkStream"
+	_root_.scala.Int#""
+_root_.scala.package.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+!$ _root_.org.typelevel.paiges.Doc#"L
+)4Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@369..369
+ÄÑItem"s
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@387..400+ÅpositionInt"
+_root_.scala.Int#"û
+B_root_.java.lang.String#`+`(Ljava/lang/Object;)Ljava/lang/String;.XÑÄ+(x$1: Any): String"
+	_root_.scala.Any#" 
+_root_.java.lang.String#"m
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2297..2298#iInt"
+_root_.scala.Int#"f
++_root_.org.typelevel.paiges.Doc.Union#bDoc.7ÅÄ@bDocDoc"&
+ _root_.org.typelevel.paiges.Doc#"
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2823..2844•ÄlstList[Tuple2[Int, Doc]]" 
+_root_.scala.package.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"\
+_root_.scala.package.`::`.>::::.type"-
+'_root_.scala.collection.immutable.`::`."G
+7_root_.org.typelevel.paiges.Chunk.indentTable.$anonfun.$anonfun"˙
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2102..2103ØzList[Tuple2[Int, Doc]]"-
+'_root_.scala.collection.immutable.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"°
+F_root_.scala.collection.immutable.StringLike#`*`(I)Ljava/lang/String;.W*(n: Int): String"
+_root_.scala.Int#"#
+
+_root_.scala.Predef.String#"˙
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2036..2037ØzList[Tuple2[Int, Doc]]"-
+'_root_.scala.collection.immutable.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"|
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2312..23132xDoc"&
+ _root_.org.typelevel.paiges.Doc#"{
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1073..11261hasNextBoolean"
+_root_.scala.Boolean#"s
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@387..387+ÅpositionInt"
+_root_.scala.Int#"4
+&_root_.scala.collection.immutable.Nil.
+ÄÑàNil"´
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@551..593cÇÄnextChunkStream"J
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"z
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@427..4432ÅisBreakBoolean"
+_root_.scala.Boolean#"i
+_root_.scala.Int#`+`(I)I.LÑÄ+(x: Int): Int"
+_root_.scala.Int#"
+
+_root_.scala.Int#"[
+!_root_.scala.Boolean#`<init>`()V.6<init>(): Boolean"
+_root_.scala.Boolean#"p
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1391..1399&ÄposInt"
+_root_.scala.Int#"s
+_root_.scala.Int#`>=`(I)Z.UÑÄ>=(x: Int): Boolean"
+_root_.scala.Int#"
+
+_root_.scala.Boolean#"Ç
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@475..542:stringChunkString"!
+_root_.scala.Predef.String#"1
+ _root_.scala.annotation.tailrec#Ä†tailrec"‹
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@374..443ì<init>S(str: String, position: Int, stack: List[Tuple2[Int, Doc]], isBreak: Boolean): Item"#
+_root_.scala.Predef.String#"
+_root_.scala.Int#""
+$(_root_.scala.package.List#"
+)/_root_.scala.Tuple2#"
+03_root_.scala.Int#"(
+58 _root_.org.typelevel.paiges.Doc#"
+EL_root_.scala.Boolean#"L
+OSDpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@358..982"{
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@374..3853ÅstrString"!
+_root_.scala.Predef.String#"ä
+b_root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.(w)$ÄwInt"
+_root_.scala.Int#"v
+I_root_.org.typelevel.paiges.Chunk.lineToStr(I)Ljava/lang/String;.(indent))ÄindentInt"
+_root_.scala.Int#"f
+_root_.scala.package.Iterator#DIteratorIterator.type"'
+!_root_.scala.collection.Iterator."|
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1954..19552aDoc"&
+ _root_.org.typelevel.paiges.Doc#"¶
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@888..917^cChunkStream"J
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"
+_root_.org.
+ÄàÄorg"˙
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1910..1911ØzList[Tuple2[Int, Doc]]"-
+'_root_.scala.collection.immutable.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"√
+S_root_.scala.collection.Iterator#map(Lscala/Function1;)Lscala/collection/Iterator;.Îmap([B] => (f: Function1[A, B]): Iterator[B]"
+_root_.scala.Function1#",
+$_root_.scala.collection.Iterator#[A]"^
+V_root_.scala.collection.Iterator#map(Lscala/Function1;)Lscala/collection/Iterator;.[B]")
+%!_root_.scala.collection.Iterator#"^
+&'V_root_.scala.collection.Iterator#map(Lscala/Function1;)Lscala/collection/Iterator;.[B]"Ä
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1382..1632µfits#(pos: Int, d: ChunkStream): Boolean"
+	_root_.scala.Int#"L
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"
+#_root_.scala.Boolean#")
+_root_.org.typelevel.ÄàÄ	typelevel"m
+,_root_.org.typelevel.paiges.Doc#`<init>`()V.=<init>(): Doc"(
+ _root_.org.typelevel.paiges.Doc#"ô
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1014..1038Œ<init>%(current: ChunkStream): ChunkIterator"L
+
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"M
+%Epaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@994..1300"z
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@427..4272ÅisBreakBoolean"
+_root_.scala.Boolean#"W
+"_root_.java.lang.String#length()I.1ÑÄÄlength(): Int"
+_root_.scala.Int#"T
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@314..351ÄÑàEmpty"˙
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1964..1965ØzList[Tuple2[Int, Doc]]"-
+'_root_.scala.collection.immutable.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"s
+_root_.scala.Int#`<=`(I)Z.UÑÄ<=(x: Int): Boolean"
+_root_.scala.Int#"
+
+_root_.scala.Boolean#"
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@402..425ßÅstackList[Tuple2[Int, Doc]]" 
+_root_.scala.package.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"˙
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2803..2868Øcheat4(pos: Int, lst: List[Tuple2[Int, Doc]]): ChunkStream"
+	_root_.scala.Int#""
+_root_.scala.package.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+!$ _root_.org.typelevel.paiges.Doc#"L
+)4Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"›
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1018..1018íÇ	current_=(x$1: ChunkStream): Unit"L
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"
+_root_.scala.Unit#"Y
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282Ä†ChunkStream"&
+_root_.scala.Boolean#Ä†Boolean"]
+,_root_.org.typelevel.paiges.Chunk.indentMax.-ÅÄ		indentMaxInt"
+_root_.scala.Int#"∏
+\_root_.scala.collection.TraversableOnce#toArray(Lscala/reflect/ClassTag;)Ljava/lang/Object;.◊toArray3[B] => (implicit evidence$1: ClassTag[B]): Array[B]"&
+%_root_.scala.reflect.ClassTag#"g
+&'__root_.scala.collection.TraversableOnce#toArray(Lscala/reflect/ClassTag;)Ljava/lang/Object;.[B]"
++0_root_.scala.Array#"g
+12__root_.scala.collection.TraversableOnce#toArray(Lscala/reflect/ClassTag;)Ljava/lang/Object;.[B]"˙
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2163..2164ØzList[Tuple2[Int, Doc]]"-
+'_root_.scala.collection.immutable.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"|
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2029..20302dDoc"&
+ _root_.org.typelevel.paiges.Doc#"p
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1785..1793&ÄposInt"
+_root_.scala.Int#"§
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1530..1552ZitemItem"J
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@358..982"†
+ _root_.scala.Array#`<init>`(I)V.|<init>(_length: Int): Array[T]"
+
+_root_.scala.Int#"
+_root_.scala.Array#"
+_root_.scala.Array#[T]"q
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@222..243)nonNegWInt"
+_root_.scala.Int#"
+_root_.scala.Boolean#`&&`(Z)Z.]ÑÄ&&(x: Boolean): Boolean"
+_root_.scala.Boolean#"
+_root_.scala.Boolean#"m
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2144..2145#iInt"
+_root_.scala.Int#"|
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1957..19582bDoc"&
+ _root_.org.typelevel.paiges.Doc#"3
+%_root_.org.typelevel.paiges.Doc.Nest.
+ÄÑ	Nest"±
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@283..283i<init>(): ChunkStream"L
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"-
+_root_.org.typelevel.paiges.ÄàÄpaiges"S
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@358..982Ä†ÄItem"3
+%_root_.org.typelevel.paiges.Doc.Text.
+ÄÑ	Text"
+_root_.scala.Boolean#`||`(Z)Z.]ÑÄ||(x: Boolean): Boolean"
+_root_.scala.Boolean#"
+_root_.scala.Boolean#"m
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2026..2027#jInt"
+_root_.scala.Int#"5
+&_root_.org.typelevel.paiges.Doc.Union.ÄÑ	Union"q
+,_root_.scala.annotation.tailrec#`<init>`()V.A<init>(): tailrec"(
+ _root_.scala.annotation.tailrec#""
+_root_.scala.Array#Ä†Array"¨
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2417..2452bfirstChunkStream"J
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"ë
+a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.´::[B] => (x: B): List[B]"l
+d_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.[B]"/
+'_root_.scala.collection.immutable.List#"l
+d_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.[B]"|
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1220..12462resString"!
+_root_.scala.Predef.String#"m
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1940..1941#iInt"
+_root_.scala.Int#"5
+&_root_.org.typelevel.paiges.Doc.Align.ÄÑ	Align"
+_root_.scala.ÄàÄscala"7
+'_root_.org.typelevel.paiges.Doc.Concat.ÄÑ	Concat"í
+._root_.org.typelevel.paiges.Chunk.indentTable.`ÅÄindentTableArray[String]"
+_root_.scala.Array#"#
+_root_.scala.Predef.String#"ç
+2_root_.java.lang.Object#`!=`(Ljava/lang/Object;)Z.WÑÄ!=(x$1: Any): Boolean"
+	_root_.scala.Any#"
+_root_.scala.Boolean#"m
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2014..2015#iInt"
+_root_.scala.Int#"˙
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2245..2246ØzList[Tuple2[Int, Doc]]"-
+'_root_.scala.collection.immutable.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"O
+_root_.scala.Int#`<init>`()V..<init>(): Int"
+_root_.scala.Int#"Ñ
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2300..2317:uUnion",
+&_root_.org.typelevel.paiges.Doc.Union#"©
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1401..1415_ÄdChunkStream"J
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@249..282"m
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1893..1894#iInt"
+_root_.scala.Int#"©
+A_root_.org.typelevel.paiges.Chunk.lineToStr(I)Ljava/lang/String;.d	lineToStr(indent: Int): String"
+	_root_.scala.Int#"#
+_root_.scala.Predef.String#"Æ
+E_root_.org.typelevel.paiges.Chunk.makeIndentStr(I)Ljava/lang/String;.eÑÄmakeIndentStr(i: Int): String"
+_root_.scala.Int#"#
+
+_root_.scala.Predef.String#"«
+O_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.tto(end: Int): Inclusive"
+	_root_.scala.Int#":
+2_root_.scala.collection.immutable.Range.Inclusive#"¢
+__root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.æbest"(w: Int, d: Doc): Iterator[String]"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"&
+_root_.scala.package.Iterator#"#
+!_root_.scala.Predef.String#"m
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2226..2227#iInt"
+_root_.scala.Int#"|
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2095..20962dDoc"&
+ _root_.org.typelevel.paiges.Doc#"3
+%_root_.org.typelevel.paiges.Doc.Line.
+ÄÑ	Line"
+_root_.scala.Int#	Ä†Int"1
+"_root_.org.typelevel.paiges.Chunk.ÄÑ	Chunk"p
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@2813..2821&ÄposInt"
+_root_.scala.Int#"{
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@374..3743ÅstrString"!
+_root_.scala.Predef.String#"6
+&_root_.org.typelevel.paiges.Doc.Empty.ÄÑâEmpty"«
+M_root_.scala.collection.IndexedSeqLike#iterator()Lscala/collection/Iterator;.viteratorIterator[A]"'
+!_root_.scala.collection.Iterator#"2
+	
+*_root_.scala.collection.IndexedSeqLike#[A]"[
+Epaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@994..1300Ä ChunkIterator"ô
+b_root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.(d)3ÄdDoc"&
+ _root_.org.typelevel.paiges.Doc#"§
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@1162..1211ZitemItem"J
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@358..982"
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@402..402ßÅstackList[Tuple2[Int, Doc]]" 
+_root_.scala.package.List#"
+_root_.scala.Tuple2#"
+_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#2è
+··*[Tuple2[Int, Doc]]
+_star_.(
+ _root_.org.typelevel.paiges.Doc#
+_root_.scala.Tuple2#
+	_root_.scala.Int#2è
+ÊÊ*[Tuple2[Int, Doc]]
+_star_.(
+ _root_.org.typelevel.paiges.Doc#
+_root_.scala.Tuple2#
+	_root_.scala.Int#2p
+êëscala.Predef.intWrapper(*)9
+1_root_.scala.LowPriorityImplicits#intWrapper(I)I.
+_star_.2n
+⁄⁄*.apply
+_star_.L
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@369..3692ä
+–”scala.Predef.augmentString(*)P
+H_root_.scala.Predef.augmentString(Ljava/lang/String;)Ljava/lang/String;.
+_star_.2X
+¢¢*.apply
+_star_.6
+._root_.scala.Array#apply(I)Ljava/lang/Object;.2è
+îî*[Tuple2[Int, Doc]]
+_star_.(
+ _root_.org.typelevel.paiges.Doc#
+_root_.scala.Tuple2#
+	_root_.scala.Int#2G
+≥≥	*[String]
+_star_.#
+_root_.scala.Predef.String#2è
+ìì*[Tuple2[Int, Doc]]
+_star_.(
+ _root_.org.typelevel.paiges.Doc#
+_root_.scala.Tuple2#
+	_root_.scala.Int#2€
+——R*[String](((ClassTag.apply[String](classOf[java.lang.String])): ClassTag[String]))
+_star_.#
+_root_.scala.Predef.String##
+IO_root_.scala.Predef.String#&
+@H_root_.scala.reflect.ClassTag#W
+O_root_.scala.reflect.ClassTag.apply(Ljava/lang/Class;)Lscala/reflect/ClassTag;.#
+!_root_.scala.Predef.String#2è
+––*[Tuple2[Int, Doc]]
+_star_.(
+ _root_.org.typelevel.paiges.Doc#
+_root_.scala.Tuple2#
+	_root_.scala.Int#2p
+ÏÌscala.Predef.intWrapper(*)9
+1_root_.scala.LowPriorityImplicits#intWrapper(I)I.
+_star_.2è
+““*[Tuple2[Int, Doc]]
+_star_.(
+ _root_.org.typelevel.paiges.Doc#
+_root_.scala.Tuple2#
+	_root_.scala.Int#2n
+àà*.apply
+_star_.L
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala@369..369:Scala212BÃpackage org.typelevel.paiges
+
+import scala.annotation.tailrec
+
+private[paiges] object Chunk {
+
+  /**
+   * Given a width and Doc find the Iterator
+   * of Chunks.
+   */
+  def best(w: Int, d: Doc): Iterator[String] = {
+
+    val nonNegW = w max 0
+
+    sealed abstract class ChunkStream
+    object ChunkStream {
+      case object Empty extends ChunkStream
+      case class Item(str: String, position: Int, stack: List[(Int, Doc)], isBreak: Boolean) extends ChunkStream {
+        def stringChunk: String = if (isBreak) lineToStr(position) else str
+        private[this] var next: ChunkStream = null
+        def step: ChunkStream = {
+          // do a cheap local computation.
+          // lazy val is thread-safe, but more expensive
+          // since everything is immutable here, this is
+          // safe
+          val res = next
+          if (res != null) res
+          else {
+            val c = loop(position, stack)
+            next = c
+            c
+          }
+        }
+      }
+    }
+
+    class ChunkIterator(var current: ChunkStream) extends Iterator[String] {
+      def hasNext: Boolean = (current != ChunkStream.Empty)
+      def next: String = {
+        val item = current.asInstanceOf[ChunkStream.Item]
+        val res = item.stringChunk
+        current = item.step
+        res
+      }
+    }
+    /*
+     * Return the length of this line if it fits
+     */
+    @tailrec
+    def fits(pos: Int, d: ChunkStream): Boolean =
+      (nonNegW >= pos) && {
+        d match {
+          case ChunkStream.Empty => true
+          case item: ChunkStream.Item =>
+            item.isBreak || fits(item.position, item.step)
+        }
+      }
+    /*
+     * This is not really tail recursive but many branches are, so
+     * we cheat below in non-tail positions
+     */
+    @tailrec
+    def loop(pos: Int, lst: List[(Int, Doc)]): ChunkStream = lst match {
+      case Nil => ChunkStream.Empty
+      case (i, Doc.Empty) :: z => loop(pos, z)
+      case (i, Doc.Concat(a, b)) :: z => loop(pos, (i, a) :: (i, b) :: z)
+      case (i, Doc.Nest(j, d)) :: z => loop(pos, ((i + j), d) :: z)
+      case (_, Doc.Align(d)) :: z => loop(pos, (pos, d) :: z)
+      case (i, Doc.Text(s)) :: z => ChunkStream.Item(s, pos + s.length, z, false)
+      case (i, Doc.Line(_)) :: z => ChunkStream.Item(null, i, z, true)
+      case (i, u@Doc.Union(x, _)) :: z =>
+        /*
+         * If we can fit the next line from x, we take it.
+         */
+        val first = cheat(pos, (i, x) :: z)
+        /*
+         * Note that in Union the left side is always right associated.
+         * This means the "fits" branch in rendering
+         * always has a right associated Doc which means it is O(w)
+         * to find if you can fit in width w.
+         */
+        if (fits(pos, first)) first
+        else loop(pos, (i, u.bDoc) :: z)
+    }
+
+    def cheat(pos: Int, lst: List[(Int, Doc)]) =
+      loop(pos, lst)
+
+    new ChunkIterator(loop(0, (0, d) :: Nil))
+  }
+
+  private[this] final val indentMax = 100
+
+  private[this] def makeIndentStr(i: Int): String = "\n" + (" " * i)
+
+  private[this] val indentTable: Array[String] =
+    (0 to indentMax).iterator
+      .map(makeIndentStr)
+      .toArray
+
+  def lineToStr(indent: Int): String =
+    if (indent <= indentMax) indentTable(indent)
+    else makeIndentStr(indent)
+}
+J;paiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala

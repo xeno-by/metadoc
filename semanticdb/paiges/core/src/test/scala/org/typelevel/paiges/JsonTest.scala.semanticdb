@@ -1,0 +1,598 @@
+
+ûÙ
+_root_.org.typelevel.d
+Ø∞Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.a
+ØØU_root_.org.typelevel.paiges.Json.JObject#`<init>`(Lscala/collection/immutable/Map;)V.ç
+Ü
+ä
+Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.\
+ãéR_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.W
+ÉàK_root_.org.typelevel.paiges.Json.JNumber#toDoc()Lorg/typelevel/paiges/Doc;.7
+◊◊-_root_.org.typelevel.paiges.Json#`<init>`()V.U
+ÿ
+Ÿ
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1368..13697
+——-_root_.org.typelevel.paiges.Json#`<init>`()V.S
+ëñGpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@781..871<
+«…2_root_.java.lang.Object#`==`(Ljava/lang/Object;)Z.F
+Í<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.*
+¢• _root_.org.typelevel.paiges.Doc.&
+îö_root_.scala.package.Vector.U
+ı¯Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1009..1132+
+ÓÚ!_root_.org.typelevel.paiges.Json#N
+ÜåD_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.
+‰Í_root_.scala.Double#Ç
+ÅÑx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.]
+˝ˇS_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.d
+ªºZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.]
+û¢S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.S
+µ∫Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1409..1456:
+Úı._root_.org.typelevel.paiges.Json.JString#(str)*
+ôú _root_.org.typelevel.paiges.Doc.U
+π
+æ
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1333..1404+
+Ù¯!_root_.org.typelevel.paiges.Json#]
+©≠S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.%
+ª¡_root_.scala.Predef.String#+
+pt!_root_.org.typelevel.paiges.Json#]
+€ﬁS_root_.org.typelevel.paiges.Json.escape(Ljava/lang/String;)Ljava/lang/String;.(str)<
+∞µ0_root_.org.typelevel.paiges.Json.JObject#(toMap)U
+ÖäIpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1409..1456Y
+À
+Õ
+O_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.+
+“÷!_root_.org.typelevel.paiges.Json#*
+à	ã	 _root_.org.typelevel.paiges.Doc.\
+≠∞R_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.-
+íñ!_root_.org.typelevel.paiges.Json.N
+}ÇC_root_.org.typelevel.paiges.Json#toDoc()Lorg/typelevel/paiges/Doc;.4
+Ò	Ò	*_root_.org.scalatest.FunSuite#`<init>`()V.Q
+‘’Gpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@835..836S
+¶ßIpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1037..10384
+«Õ(_root_.org.typelevel.paiges.Json.JArray#_
+¿√S_root_.org.typelevel.paiges.Json.escape(Ljava/lang/String;)Ljava/lang/String;.(str)7
+óó-_root_.org.typelevel.paiges.Json#`<init>`()V.á
+ù®}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.5
+®Ø)_root_.org.typelevel.paiges.Json.JObject#&
+3;_root_.org.scalatest.FunSuite#'
+Á
+Ô
+_root_.scala.Int#toDouble()D.8
+æ∆._root_.scala.Any#toString()Ljava/lang/String;.Ç
+“
+’
+x_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.U
+©ÆK_root_.org.typelevel.paiges.Json.JString#toDoc()Lorg/typelevel/paiges/Doc;.S
+√ƒGpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@835..836í
+Æ¥á_root_.org.scalatest.Assertions#assert(ZLorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Lorg/scalatest/compatible/Assertion;.S
+ÒÒG_root_.org.typelevel.paiges.Json.JString#`<init>`(Ljava/lang/String;)V."
+∑∫_root_.scala.Predef.Map#]
+ÚÙS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.S
+õ†Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1333..1404c
+ÕÕW_root_.org.typelevel.paiges.Json.JArray#`<init>`(Lscala/collection/immutable/Vector;)V.=
+‡	‡	1_root_.org.typelevel.paiges.JsonTest#`<init>`()V.
+ª¬_root_.scala.Boolean#&
+ÿﬁ_root_.scala.package.Vector#<
+¥º2_root_.org.typelevel.paiges.Json.JArray#(toVector)3
+›
+‰
+)_root_.org.typelevel.paiges.Json.JNumber.X
+≥πN_root_.org.typelevel.paiges.Json.escape(Ljava/lang/String;)Ljava/lang/String;.<
+ı˜2_root_.java.lang.Object#`==`(Ljava/lang/Object;)Z.6
+√Œ,_root_.org.typelevel.paiges.Doc.lineOrSpace.%
+≈À_root_.scala.Predef.String#Ö
+§	≠	{_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.*
+ˇÇ	 _root_.org.typelevel.paiges.Doc./
+Õ—%_root_.org.typelevel.paiges.Doc.line.2
+çì(_root_.org.typelevel.paiges.Json.JArray.U
+˜¸Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1139..1175S
+ì	ñ	Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1009..1132+
+ﬂ„!_root_.org.typelevel.paiges.Json#`
+Û
+˚
+V_root_.scala.collection.TraversableOnce#toVector()Lscala/collection/immutable/Vector;.S
+—“Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1040..1041>
+Œ÷2_root_.org.typelevel.paiges.Json.JArray#(toVector)Ç
+Ω¿x_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.*
+…Ã _root_.org.typelevel.paiges.Doc.]
+ß´S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.h
+¨≤^_root_.scala.collection.immutable.StringLike#format(Lscala/collection/Seq;)Ljava/lang/String;.5
+ÍÒ)_root_.org.typelevel.paiges.Json.JString#>
+∞π2_root_.org.typelevel.paiges.Json.JBool#(toBoolean)*
+Ñá _root_.org.typelevel.paiges.Doc#]
+π	Ω	S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.0
+å	ë	&_root_.org.typelevel.paiges.Doc.comma.S
+û	£	Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1139..1175]
+Æ	≤	S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.2
+¡
+«
+(_root_.org.typelevel.paiges.Json.JArray.Q
+˜¸Gpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@781..871W
+ñõK_root_.org.typelevel.paiges.Json.JString#toDoc()Lorg/typelevel/paiges/Doc;.5
+“Ÿ)_root_.org.typelevel.paiges.Json.JNumber#7
+åå-_root_.org.typelevel.paiges.Json#`<init>`()V.U
+€‡I_root_.org.typelevel.paiges.Json.JBool#toDoc()Lorg/typelevel/paiges/Doc;.F
+¡«<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.*
+ø¬ _root_.org.typelevel.paiges.Doc.3
+™Ø'_root_.org.typelevel.paiges.Json.JBool#U
+êëIpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1040..1041S
+æ√Gpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@318..323Z
+πøN_root_.org.typelevel.paiges.Json.escape(Ljava/lang/String;)Ljava/lang/String;.B
+ŸŸ6_root_.org.typelevel.paiges.Json.JNumber#`<init>`(D)V.
+)2_root_.org.scalatest.\
+„ÊR_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.$
+_root_.org.typelevel.paiges.:
+˚Ä0_root_.org.typelevel.paiges.Json.JObject#(toMap)d
+œ–Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.%
+˜˝_root_.scala.Predef.String#U
+çéIpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1037..1038<
+ÃŒ2_root_.java.lang.Object#`==`(Ljava/lang/Object;)Z.0
+≠≤&_root_.org.typelevel.paiges.Doc.comma.+
+Ã–!_root_.org.typelevel.paiges.Json#8
+∫Ω._root_.org.typelevel.paiges.Json.JString#(str)W
+·ÊK_root_.org.typelevel.paiges.Json.JObject#toDoc()Lorg/typelevel/paiges/Doc;.
+%(_root_.org.U
+°¶I_root_.org.typelevel.paiges.Json.JNull.toDoc()Lorg/typelevel/paiges/Doc;.3
+û•)_root_.org.typelevel.paiges.Json.JString.N
+›‰D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.(
+Ë		_root_.org.scalatest.FunSuite#7
+ÛÛ-_root_.org.typelevel.paiges.Json#`<init>`()V.M
+÷€C_root_.org.typelevel.paiges.Json#toDoc()Lorg/typelevel/paiges/Doc;.d
+“”Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.M
+”ÿC_root_.org.typelevel.paiges.Json#toDoc()Lorg/typelevel/paiges/Doc;.8
+Õ’._root_.scala.Any#toString()Ljava/lang/String;.T
+‰ÈJ_root_.org.typelevel.paiges.Json.JArray#toDoc()Lorg/typelevel/paiges/Doc;.S
+Â
+Ê
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1368..1369V
+˝ÇJ_root_.org.typelevel.paiges.Json.JArray#toDoc()Lorg/typelevel/paiges/Doc;.+
+íñ!_root_.org.typelevel.paiges.Json#*
+©¨ _root_.org.typelevel.paiges.Doc.]
+±µS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.+
+√«!_root_.org.typelevel.paiges.Json#1
+◊	ﬂ	%_root_.org.typelevel.paiges.JsonTest#S
+©ÆIpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1333..1404Q
+«ÃGpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@318..323í
+◊›á_root_.org.scalatest.Assertions#assert(ZLorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Lorg/scalatest/compatible/Assertion;.@
+ØØ4_root_.org.typelevel.paiges.Json.JBool#`<init>`(Z)V.=
+èó3_root_.org.typelevel.paiges.Json.JNumber#(toDouble)<
+Á2_root_.org.typelevel.paiges.Json.JBool#(toBoolean)T
+ª¿J_root_.org.typelevel.paiges.Json.JArray#toDoc()Lorg/typelevel/paiges/Doc;.7
+˘˘-_root_.org.typelevel.paiges.Json#`<init>`()V.7
+uu-_root_.org.typelevel.paiges.Json#`<init>`()V.
+_root_.org.%
+Œ‘_root_.scala.Predef.String#S
+ﬁ„Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1409..1456S
+¢ßIpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1333..1404N
+⁄‡D_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.3
+Ñâ'_root_.org.typelevel.paiges.Json.JNull.Ä
+É	á	v_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.?
+⁄‚3_root_.org.typelevel.paiges.Json.JNumber#(toDouble)+
+áã!_root_.org.typelevel.paiges.Json#+
+¸	Ä
+!_root_.org.typelevel.paiges.Json.Ü
+ﬂÊ|_root_.scala.collection.TraversableLike#flatMap(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;."h
+_root_.scala.package.Vector.HVectorVector.type"/
+)_root_.scala.collection.immutable.Vector."h
+_root_.scala.package.Vector#HVectorVector.type"/
+)_root_.scala.collection.immutable.Vector."≈
+G_root_.org.typelevel.paiges.Json.JString#`<init>`(Ljava/lang/String;)V.z<init>(str: String): JString"#
+_root_.scala.Predef.String#"1
+)_root_.org.typelevel.paiges.Json.JString#"$
+_root_.scala.Double#Ä†Double"j
+2_root_.org.typelevel.paiges.Json.JBool#(toBoolean)4Å	toBooleanBoolean"
+_root_.scala.Boolean#"€
+}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.Ÿintercalate"(sep: Doc, ds: Iterable[Doc]): Doc"(
+	 _root_.org.typelevel.paiges.Doc#"&
+_root_.scala.package.Iterable#"(
+ _root_.org.typelevel.paiges.Doc#"(
+" _root_.org.typelevel.paiges.Doc#"X
+ _root_.scala.Double#`<init>`()V.4<init>
+(): Double"
+
+_root_.scala.Double#"Ø
+4_root_.org.typelevel.paiges.Json.JBool#`<init>`(Z)V.w<init>(toBoolean: Boolean): JBool"
+_root_.scala.Boolean#"/
+'_root_.org.typelevel.paiges.Json.JBool#"`
+&_root_.org.typelevel.paiges.Doc.comma.6commaDoc"&
+ _root_.org.typelevel.paiges.Doc#"¿
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1009..1132skvsIterable[Doc]"1
++_root_.scala.collection.immutable.Iterable#"(
+	 _root_.org.typelevel.paiges.Doc#"Q
+_root_.scala.Predef.String#2@StringString"
+_root_.java.lang.String#"—
+{_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.—	bracketBy)(left: Doc, right: Doc, indent: Int): Doc"(
+
+ _root_.org.typelevel.paiges.Doc#"(
+ _root_.org.typelevel.paiges.Doc#"
+ #_root_.scala.Int#"(
+&) _root_.org.typelevel.paiges.Doc#"-
+ _root_.org.typelevel.paiges.Doc.	ÄÑDoc"-
+ _root_.org.typelevel.paiges.Doc#	Ä†Doc"É
+I_root_.org.typelevel.paiges.Json.JBool#toDoc()Lorg/typelevel/paiges/Doc;.6toDocDoc"&
+ _root_.org.typelevel.paiges.Doc#"…
+Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.k+(that: Doc): Doc"(
+
+ _root_.org.typelevel.paiges.Doc#"(
+ _root_.org.typelevel.paiges.Doc#"8
+(_root_.org.typelevel.paiges.Json.JArray.ÄÑJArray"}
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1037..10380sString"!
+_root_.scala.Predef.String#"9
+(_root_.org.typelevel.paiges.Json.JArray#Ä†ÄJArray"/
+!_root_.org.typelevel.paiges.Json#
+Ä†Json"/
+!_root_.org.typelevel.paiges.Json.
+ÄÑJson"Ñ
+J_root_.org.typelevel.paiges.Json.JArray#toDoc()Lorg/typelevel/paiges/Doc;.6toDocDoc"&
+ _root_.org.typelevel.paiges.Doc#"Ö
+K_root_.org.typelevel.paiges.Json.JObject#toDoc()Lorg/typelevel/paiges/Doc;.6toDocDoc"&
+ _root_.org.typelevel.paiges.Doc#"ë
+á_root_.org.scalatest.Assertions#assert(ZLorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Lorg/scalatest/compatible/Assertion;.Ñ assertO(condition: Boolean)(implicit prettifier: Prettifier, pos: Position): Assertion"
+_root_.scala.Boolean#"(
+*4 _root_.org.scalactic.Prettifier#"-
+;C%_root_.org.scalactic.source.Position#"/
+FO'_root_.org.scalatest.package.Assertion#"7
+'_root_.org.typelevel.paiges.Json.JBool#Ä†ÄJBool"é
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1409..1456AouterJArray".
+(_root_.org.typelevel.paiges.Json.JArray#"Æ
+U_root_.org.typelevel.paiges.Json.JObject#`<init>`(Lscala/collection/immutable/Map;)V.‘<init>#(toMap: Map[String, Json]): JObject" 
+_root_.scala.Predef.Map#"#
+_root_.scala.Predef.String#")
+!_root_.org.typelevel.paiges.Json#"1
+#)_root_.org.typelevel.paiges.Json.JObject#"e
+._root_.org.typelevel.paiges.Json.JString#(str)3ÅstrString"!
+_root_.scala.Predef.String#":
+)_root_.org.typelevel.paiges.Json.JString.ÄÑJString";
+)_root_.org.typelevel.paiges.Json.JString#Ä†ÄJString"ä
+S_root_.org.typelevel.paiges.Json.escape(Ljava/lang/String;)Ljava/lang/String;.(str)3ÄstrString"!
+_root_.scala.Predef.String#"n
+*_root_.org.scalatest.FunSuite#`<init>`()V.@<init>(): FunSuite"&
+_root_.org.scalatest.FunSuite#"ç
+2_root_.java.lang.Object#`==`(Ljava/lang/Object;)Z.WÑÄ==(x$1: Any): Boolean"
+	_root_.scala.Any#"
+_root_.scala.Boolean#"[
+!_root_.scala.Boolean#`<init>`()V.6<init>(): Boolean"
+_root_.scala.Boolean#"Å
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1040..10414jJson"'
+!_root_.org.typelevel.paiges.Json#"≤
+6_root_.org.typelevel.paiges.Json.JNumber#`<init>`(D)V.x<init>(toDouble: Double): JNumber"
+_root_.scala.Double#"1
+)_root_.org.typelevel.paiges.Json.JNumber#"¬
+0_root_.org.typelevel.paiges.Json.JObject#(toMap)çÅtoMapMap[String, Json]"
+_root_.scala.Predef.Map#"#
+
+_root_.scala.Predef.String#")
+!_root_.org.typelevel.paiges.Json#"[
+_root_.scala.Predef.Map#?MapMap.type",
+&_root_.scala.collection.immutable.Map."¿
+S_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.i:+(str: String): Doc"#
+_root_.scala.Predef.String#"(
+ _root_.org.typelevel.paiges.Doc#"Ä
+D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.8groupedDoc"&
+ _root_.org.typelevel.paiges.Doc#"
+C_root_.org.typelevel.paiges.Json#toDoc()Lorg/typelevel/paiges/Doc;.8ÑÄtoDocDoc"&
+ _root_.org.typelevel.paiges.Doc#"ù
+|_root_.scala.collection.TraversableLike#flatMap(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.úflatMape[B, That] => (f: Function1[A, GenTraversableOnce[B]])(implicit bf: CanBuildFrom[Repr, B, That]): That"
+_root_.scala.Function1#"3
++_root_.scala.collection.TraversableLike#[A]"3
+0+_root_.scala.collection.GenTraversableOnce#"á
+12_root_.scala.collection.TraversableLike#flatMap(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.[B]"5
+CO-_root_.scala.collection.generic.CanBuildFrom#"6
+PT._root_.scala.collection.TraversableLike#[Repr]"á
+VW_root_.scala.collection.TraversableLike#flatMap(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.[B]"ã
+Y]Ç_root_.scala.collection.TraversableLike#flatMap(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.[That]"ã
+aeÇ_root_.scala.collection.TraversableLike#flatMap(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.[That]")
+_root_.org.scalatest.ÄàÄ	scalatest"Ä
+Gpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@835..8365ÄjJson"'
+!_root_.org.typelevel.paiges.Json#"É
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1139..11756partsDoc"&
+ _root_.org.typelevel.paiges.Doc#"
+_root_.org.
+ÄàÄorg"†
+2_root_.org.typelevel.paiges.Json.JArray#(toVector)jÅtoVectorVector[Json]""
+_root_.scala.package.Vector#")
+!_root_.org.typelevel.paiges.Json#" 
+V_root_.scala.collection.TraversableOnce#toVector()Lscala/collection/immutable/Vector;.ptoVector	Vector[A]""
+_root_.scala.package.Vector#"3
++_root_.scala.collection.TraversableOnce#[A]"é
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1333..1404AinnerJArray".
+(_root_.org.typelevel.paiges.Json.JArray#"q
+Ipaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@1368..1369$ÄiInt"
+_root_.scala.Int#")
+_root_.org.typelevel.ÄàÄ	typelevel"m
+,_root_.org.typelevel.paiges.Doc#`<init>`()V.=<init>(): Doc"(
+ _root_.org.typelevel.paiges.Doc#"É
+I_root_.org.typelevel.paiges.Json.JNull.toDoc()Lorg/typelevel/paiges/Doc;.6toDocDoc"&
+ _root_.org.typelevel.paiges.Doc#"Î
+Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.„ÑÄtestc(testName: String, testTags: <repeated>[Tag])(testFun: <byname>[Any])(implicit pos: Position): Unit"#
+_root_.scala.Predef.String#""
+'_root_.scala.`<repeated>`#"!
+(+_root_.org.scalatest.Tag#" 
+7?_root_.scala.`<byname>`#"
+@C_root_.scala.Any#"-
+T\%_root_.org.scalactic.source.Position#"
+_c_root_.scala.Unit#"∫
+x_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.ΩmapQ[B, That] => (f: Function1[A, B])(implicit bf: CanBuildFrom[Repr, B, That]): That"
+_root_.scala.Function1#"3
++_root_.scala.collection.TraversableLike#[A]"É
+{_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.[B]"5
+/;-_root_.scala.collection.generic.CanBuildFrom#"6
+<@._root_.scala.collection.TraversableLike#[Repr]"É
+BC{_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.[B]"Ü
+EI~_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.[That]"Ü
+MQ~_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.[That]"¿
+S_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.i+:(str: String): Doc"#
+_root_.scala.Predef.String#"(
+ _root_.org.typelevel.paiges.Doc#"^
+%_root_.org.typelevel.paiges.Doc.line.5lineDoc"&
+ _root_.org.typelevel.paiges.Doc#"/
+_root_.org.scalatest.FunSuite#Ä FunSuite";
+)_root_.org.typelevel.paiges.Json.JObject#Ä†ÄJObject"&
+_root_.scala.Boolean#Ä†Boolean"6
+%_root_.org.typelevel.paiges.JsonTest#Ä JsonTest"7
+'_root_.org.typelevel.paiges.Json.JNull.ÄÑàJNull"Õ
+v_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.“fill"(sep: Doc, ds: Iterable[Doc]): Doc"(
+	 _root_.org.typelevel.paiges.Doc#"&
+_root_.scala.package.Iterable#"(
+ _root_.org.typelevel.paiges.Doc#"(
+" _root_.org.typelevel.paiges.Doc#"Å
+Gpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@781..8716partsDoc"&
+ _root_.org.typelevel.paiges.Doc#"Ω
+N_root_.org.typelevel.paiges.Json.escape(Ljava/lang/String;)Ljava/lang/String;.kescape(str: String): String"#
+_root_.scala.Predef.String#"#
+_root_.scala.Predef.String#"†
+<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.`render(width: Int): String"
+_root_.scala.Int#"#
+_root_.scala.Predef.String#"h
+3_root_.org.typelevel.paiges.Json.JNumber#(toDouble)1ÅtoDoubleDouble"
+_root_.scala.Double#"Ú
+^_root_.scala.collection.immutable.StringLike#format(Lscala/collection/Seq;)Ljava/lang/String;.èformat(args: <repeated>[Any]): String""
+_root_.scala.`<repeated>`#"
+_root_.scala.Any#"#
+_root_.scala.Predef.String#"˚
+R_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.§str[T] => (t: T): Doc"]
+U_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.[T]"(
+ _root_.org.typelevel.paiges.Doc#"t
+Gpaiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala@318..323)otherChar"
+_root_.scala.Char#":
+)_root_.org.typelevel.paiges.Json.JNumber.ÄÑJNumber"-
+_root_.org.typelevel.paiges.ÄàÄpaiges";
+)_root_.org.typelevel.paiges.Json.JNumber#Ä†ÄJNumber"´
+D_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.cnested(amount: Int): Doc"
+	_root_.scala.Int#"(
+ _root_.org.typelevel.paiges.Doc#"ã
+W_root_.org.typelevel.paiges.Json.JArray#`<init>`(Lscala/collection/immutable/Vector;)V.Ø<init> (toVector: Vector[Json]): JArray"$
+_root_.scala.package.Vector#")
+!_root_.org.typelevel.paiges.Json#"0
+ (_root_.org.typelevel.paiges.Json.JArray#"Ö
+K_root_.org.typelevel.paiges.Json.JString#toDoc()Lorg/typelevel/paiges/Doc;.6toDocDoc"&
+ _root_.org.typelevel.paiges.Doc#"l
+._root_.scala.Any#toString()Ljava/lang/String;.:toString
+(): String" 
+
+_root_.java.lang.String#"S
+_root_.scala.Int#toDouble()D.2ÑÄtoDoubleDouble"
+_root_.scala.Double#"«
+O_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.tto(end: Int): Inclusive"
+	_root_.scala.Int#":
+2_root_.scala.collection.immutable.Range.Inclusive#"|
+1_root_.org.typelevel.paiges.JsonTest#`<init>`()V.G<init>(): JsonTest"-
+%_root_.org.typelevel.paiges.JsonTest#"l
+,_root_.org.typelevel.paiges.Doc.lineOrSpace.<lineOrSpaceDoc"&
+ _root_.org.typelevel.paiges.Doc#"p
+-_root_.org.typelevel.paiges.Json#`<init>`()V.?<init>(): Json")
+!_root_.org.typelevel.paiges.Json#"¬
+S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.ktext(str: String): Doc"#
+_root_.scala.Predef.String#"(
+ _root_.org.typelevel.paiges.Doc#"Ö
+K_root_.org.typelevel.paiges.Json.JNumber#toDoc()Lorg/typelevel/paiges/Doc;.6toDocDoc"&
+ _root_.org.typelevel.paiges.Doc#2ä
+€ﬁscala.Predef.augmentString(*)P
+H_root_.scala.Predef.augmentString(Ljava/lang/String;)Ljava/lang/String;.
+_star_.2™
+¿¿*[Doc, Iterable[Doc]]
+_star_.(
+ _root_.org.typelevel.paiges.Doc#&
+_root_.scala.package.Iterable#(
+ _root_.org.typelevel.paiges.Doc#2p
+…
+ 
+scala.Predef.intWrapper(*)9
+1_root_.scala.LowPriorityImplicits#intWrapper(I)I.
+_star_.2ä
+«’scala.Predef.augmentString(*)P
+H_root_.scala.Predef.augmentString(Ljava/lang/String;)Ljava/lang/String;.
+_star_.2ü
+ìì*.apply
+_star_.}
+u_root_.org.typelevel.paiges.Json.JArray.apply(Lscala/collection/immutable/Vector;)Lorg/typelevel/paiges/Json/JArray;.2ü
+«
+«
+*.apply
+_star_.}
+u_root_.org.typelevel.paiges.Json.JArray.apply(Lscala/collection/immutable/Vector;)Lorg/typelevel/paiges/Json/JArray;.2B
+ÊÊ
+*[Boolean]
+_star_.
+	_root_.scala.Boolean#2Ê
+ÏÏ8*(scala.collection.immutable.Iterable.canBuildFrom[Doc])
+_star_.i
+&2a_root_.scala.collection.immutable.Iterable.canBuildFrom()Lscala/collection/generic/CanBuildFrom;.(
+36 _root_.org.typelevel.paiges.Doc#2‘
+öö*.apply[JArray]
+_star_.x
+p_root_.scala.collection.generic.GenericCompanion#apply(Lscala/collection/Seq;)Lscala/collection/GenTraversable;.0
+(_root_.org.typelevel.paiges.Json.JArray#2‚
+ÊÊ6*(scala.collection.immutable.Vector.canBuildFrom[Doc])
+_star_.(
+14 _root_.org.typelevel.paiges.Doc#g
+$0__root_.scala.collection.immutable.Vector.canBuildFrom()Lscala/collection/generic/CanBuildFrom;.2ä
+£´scala.Predef.augmentString(*)P
+H_root_.scala.Predef.augmentString(Ljava/lang/String;)Ljava/lang/String;.
+_star_.2@
+éé	*[Double]
+_star_.
+_root_.scala.Double#2ä
+ñõscala.Predef.augmentString(*)P
+H_root_.scala.Predef.augmentString(Ljava/lang/String;)Ljava/lang/String;.
+_star_.2
+‰
+‰
+*.apply
+_star_.]
+U_root_.org.typelevel.paiges.Json.JNumber.apply(D)Lorg/typelevel/paiges/Json/JNumber;.2i
+ÊÊ*[Char, String]
+_star_.
+_root_.scala.Char##
+_root_.scala.Predef.String#2l
+€€"*(scala.Predef.StringCanBuildFrom)
+_star_./
+!'_root_.scala.Predef.StringCanBuildFrom.2≈
+°°∞*(org.scalactic.source.Position.apply("JsonTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 55))
+_star_.y
+ %q_root_.org.scalactic.source.Position.apply(Ljava/lang/String;Ljava/lang/String;I)Lorg/scalactic/source/Position;.2˜
+Ú
+Ú
+>*(scala.collection.immutable.IndexedSeq.canBuildFrom[JNumber])
+_star_.1
+5<)_root_.org.typelevel.paiges.Json.JNumber#k
+(4c_root_.scala.collection.immutable.IndexedSeq.canBuildFrom()Lscala/collection/generic/CanBuildFrom;.2ô
+óó“*(org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("JsonTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 79))
+_star_.0
+"(_root_.org.scalactic.Prettifier.default.y
+BGq_root_.org.scalactic.source.Position.apply(Ljava/lang/String;Ljava/lang/String;I)Lorg/scalactic/source/Position;.2∑
+ÑÑ*[Doc, Iterable[Doc]]
+_star_.(
+ _root_.org.typelevel.paiges.Doc#3
++_root_.scala.collection.immutable.Iterable#(
+ _root_.org.typelevel.paiges.Doc#2ô
+òò“*(org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("JsonTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 60))
+_star_.0
+"(_root_.org.scalactic.Prettifier.default.y
+BGq_root_.org.scalactic.source.Position.apply(Ljava/lang/String;Ljava/lang/String;I)Lorg/scalactic/source/Position;.2ä
+Æ≤scala.Predef.augmentString(*)P
+H_root_.scala.Predef.augmentString(Ljava/lang/String;)Ljava/lang/String;.
+_star_.2ê
+••*.apply
+_star_.n
+f_root_.org.typelevel.paiges.Json.JString.apply(Ljava/lang/String;)Lorg/typelevel/paiges/Json/JString;.2ä
+¸Çscala.Predef.augmentString(*)P
+H_root_.scala.Predef.augmentString(Ljava/lang/String;)Ljava/lang/String;.
+_star_.2’
+’
+’
+*[JNumber, IndexedSeq[JNumber]]
+_star_.1
+	)_root_.org.typelevel.paiges.Json.JNumber#5
+-_root_.scala.collection.immutable.IndexedSeq#1
+)_root_.org.typelevel.paiges.Json.JNumber#:Scala212B§package org.typelevel.paiges
+
+import org.scalatest.FunSuite
+
+/**
+ * A simple JSON ast
+ */
+sealed abstract class Json {
+  def toDoc: Doc
+}
+
+object Json {
+  import Doc.{text, str}
+
+  def escape(str: String): String =
+    str.flatMap {
+      case '\\' => "\\\\"
+      case '\n' => "\\n"
+      case '"' => "\""
+      case other => other.toString
+    }
+
+  case class JString(str: String) extends Json {
+    def toDoc = text("\"%s\"".format(escape(str)))
+  }
+  case class JNumber(toDouble: Double) extends Json {
+    def toDoc = str(toDouble)
+  }
+  case class JBool(toBoolean: Boolean) extends Json {
+    def toDoc = str(toBoolean)
+  }
+  case object JNull extends Json {
+    def toDoc = text("null")
+  }
+  case class JArray(toVector: Vector[Json]) extends Json {
+    def toDoc = {
+      val parts = Doc.intercalate(Doc.comma, toVector.map { j => (Doc.line + j.toDoc).grouped })
+      "[" +: ((parts :+ " ]").nested(2))
+    }
+  }
+  case class JObject(toMap: Map[String, Json]) extends Json {
+    def toDoc = {
+      val kvs = toMap.map { case (s, j) =>
+        JString(s).toDoc + text(":") + ((Doc.lineOrSpace + j.toDoc).nested(2))
+      }
+      val parts = Doc.fill(Doc.comma, kvs)
+      parts.bracketBy(text("{"), text("}"))
+    }
+  }
+}
+
+class JsonTest extends FunSuite {
+  import Json._
+
+  test("test nesteded array json example") {
+    val inner = JArray((1 to 20).map { i => JNumber(i.toDouble) }.toVector)
+    val outer = JArray(Vector(inner, inner, inner))
+
+    if (1.0.toString == "1") {
+      assert(outer.toDoc.render(20) == """[
+  [ 1, 2, 3, 4, 5,
+    6, 7, 8, 9, 10,
+    11, 12, 13, 14,
+    15, 16, 17, 18,
+    19, 20 ],
+  [ 1, 2, 3, 4, 5,
+    6, 7, 8, 9, 10,
+    11, 12, 13, 14,
+    15, 16, 17, 18,
+    19, 20 ],
+  [ 1, 2, 3, 4, 5,
+    6, 7, 8, 9, 10,
+    11, 12, 13, 14,
+    15, 16, 17, 18,
+    19, 20 ] ]""")
+
+
+    } else {
+      assert(outer.toDoc.render(20) == """[
+  [ 1.0, 2.0, 3.0,
+    4.0, 5.0, 6.0,
+    7.0, 8.0, 9.0,
+    10.0, 11.0,
+    12.0, 13.0,
+    14.0, 15.0,
+    16.0, 17.0,
+    18.0, 19.0,
+    20.0 ],
+  [ 1.0, 2.0, 3.0,
+    4.0, 5.0, 6.0,
+    7.0, 8.0, 9.0,
+    10.0, 11.0,
+    12.0, 13.0,
+    14.0, 15.0,
+    16.0, 17.0,
+    18.0, 19.0,
+    20.0 ],
+  [ 1.0, 2.0, 3.0,
+    4.0, 5.0, 6.0,
+    7.0, 8.0, 9.0,
+    10.0, 11.0,
+    12.0, 13.0,
+    14.0, 15.0,
+    16.0, 17.0,
+    18.0, 19.0,
+    20.0 ] ]""")
+    }
+  }
+}
+J>paiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala
